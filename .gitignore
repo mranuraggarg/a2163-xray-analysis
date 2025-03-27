@@ -1,0 +1,51 @@
+# CIAO / Sherpa
+*.fits
+*.evt
+*.pi
+*.rmf
+*.arf
+*.reg
+*.lis
+*.par
+*.mtl*
+*.bpix*
+*.fov*
+*.msk*
+*.stat*
+*.asol*
+*.obs*
+
+# Output data
+*.png
+*.ps
+*.pdf
+*.csv
+*.json
+*.tex
+*.aux
+*.log
+*.out
+
+# CIAO logs and temp
+*.clobber
+*.err
+*.txt
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and OS files
+.env
+.venv/
+.DS_Store
+
+# Notebooks
+*.ipynb_checkpoints
+
+# Results
+results/
+data/
+graphs/
