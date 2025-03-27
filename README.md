@@ -96,3 +96,11 @@ See the [LICENSE](./LICENSE) file for details.
 
 - The core analysis is built around [Sherpa](https://github.com/sherpa/sherpa), which is licensed under **GPL-3.0**.
 - As a result, this repository and all associated scripts are distributed under the same license.
+
+## 📘 Citation
+
+If you use this repository, please cite it via:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15097986.svg)](https://doi.org/10.5281/zenodo.15097986)
+
+Anurag Garg. (2025). mranuraggarg/a2163-xray-analysis: Initial Scientific Release: A2163 X-ray Surface Brightness & Mass Analysis (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15097986
