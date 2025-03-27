@@ -14,7 +14,7 @@ The analysis includes:
 
   ## 📁 Repository Structure
 
-  ```
+```
 a2163-xray-analysis/
 ├── scripts/               # Python scripts for fitting and physical parameter extraction
 │   ├── rprofile_fit.py
