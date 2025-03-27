@@ -46,6 +46,6 @@ __pycache__/
 *.ipynb_checkpoints
 
 # Results
-results/
+#results/
 data/
-graphs/
+#graphs/
